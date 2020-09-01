@@ -1,4 +1,4 @@
-Basic TodoList Project
+Basic TodoList Project using React
 
 his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
